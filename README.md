@@ -1,4 +1,4 @@
-# 🛡️ Miniguia de Estudos: Como Iniciar em Segurança da Informação?
+# 🛡️ Como Iniciar em Segurança da Informação?
 
 ## 📌 Contexto e Objetivos
 
@@ -182,6 +182,34 @@ Em atendimento ao requisito da DIO sobre demonstração de **raciocínio crític
 
 - **Refinamento da Estrutura dos Prompts:**  
   Para evitar que a IA trouxesse respostas genéricas ou excessivamente longas, os prompts foram encadeados de forma granular (dividindo a busca por áreas como GRC, certificações específicas, glossários com número fixo de itens e prazos estipulados de 6 meses). Isso garantiu respostas em tabelas e bullet points práticos para documentação.
+
+---
+
+## 📖 Miniguia de Estudo (Entrega Final)
+
+### 🚀 Plano Estratégico de 6 Meses: Do Zero à Contratação
+
+1. **Meses 1 e 2 – Base Teórica e Mão na Massa Fundamental:**
+   - Estudar fundamentos de Redes (TCP/IP, OSI, portas, DNS).
+   - Comandos básicos de Linux (Terminal/Bash) e administração Windows.
+   - Concluir o curso gratuito **Introdução à Cibersegurança (Cisco Networking Academy)**.
+   - Praticar em plataformas interativas (ex: *TryHackMe - Pre-Security Path*).
+
+2. **Meses 3 e 4 – Especialização Inicial e Laboratórios:**
+   - Entender a divisão das áreas: **Blue Team** (defesa/SOC), **Red Team** (ofensiva/pentest) ou **GRC** (governança, riscos e LGPD).
+   - Realizar cursos introdutórios estruturados (ex: *Google Cybersecurity Certificate* ou ecossistema *Desec/Solyd*).
+   - Aprender conceitos de **SIEM**, análise de logs e resposta a incidentes.
+
+3. **Mês 5 – Validação de Conhecimento e Certificação:**
+   - Focar no estudo para uma certificação de entrada reconhecida no mercado:
+     - **ISC2 CC (Certified in Cybersecurity):** Excelente custo-benefício e foco em conceitos fundamentais.
+     - **EXIN ISFS (ISO/IEC 27001):** Foco total em processos e governança de segurança.
+     - **CompTIA Security+ (SY0-701):** O padrão ouro internacional para analistas júnior de cibersegurança.
+
+4. **Mês 6 – Construção de Portfólio, Networking e Currículo:**
+   - Mapear e destacar competências transferíveis de experiências profissionais anteriores.
+   - Publicar write-ups de laboratórios e projetos no GitHub/LinkedIn.
+   - Participar ativamente de comunidades locais/online e focar em candidaturas constantes.
 
 ---
 
