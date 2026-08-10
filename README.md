@@ -185,7 +185,7 @@ Em atendimento ao requisito da DIO sobre demonstração de **raciocínio crític
 
 ---
 
-## 📖 Miniguia de Estudo (Entrega Final)
+## 📖 Miniguia de Estudo
 
 ### 🚀 Plano Estratégico de 6 Meses: Do Zero à Contratação
 
