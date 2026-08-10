@@ -187,7 +187,7 @@ Em atendimento ao requisito da DIO sobre demonstração de **raciocínio crític
 
 ## 📖 Miniguia de Estudo
 
-### 🚀 Plano Estratégico de 6 Meses: Do Zero à Contratação
+### 🚀 Plano Estratégico de 6 Meses
 
 1. **Meses 1 e 2 – Base Teórica e Mão na Massa Fundamental:**
    - Estudar fundamentos de Redes (TCP/IP, OSI, portas, DNS).
